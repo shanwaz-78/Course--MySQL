@@ -15,7 +15,7 @@ Constraints can be column level or table level. Column level constraints apply t
 
 * The following constraints are commonly used in SQL:
 
-NOT NULL - Ensures that a column cannot have a NULL value
+NOT NULL - Ensures that a column cannot have a NULL value<br>
 UNIQUE - Ensures that all values in a column are different
 PRIMARY KEY - A combination of a NOT NULL and UNIQUE. Uniquely identifies each row in a table
 FOREIGN KEY - Prevents actions that would destroy links between tables
