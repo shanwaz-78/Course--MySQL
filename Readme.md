@@ -10,3 +10,6 @@
 ### 8. [Delete Statement](./Md/DELETE%20Statement.md)
 ### 9. [Create Table](./Md/Create%20Table.md)
 ### 10. [Constrains](./Md/constrains.md)
+### 11. [Not Null](./Md/not%20null.md)
+### 12. [Unique](./Md/unique.md)
+### 13. [Primary Key](./Md/primary%20key.md)
