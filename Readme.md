@@ -13,3 +13,6 @@
 ### 11. [Not Null](./Md/not%20null.md)
 ### 12. [Unique](./Md/unique.md)
 ### 13. [Primary Key](./Md/primary%20key.md)
+### 14. [Check](./Md/check.md)
+### 15. [Default](./Md/default.md)
+### 16. [Create Index](./Md/create%20index.md)
