@@ -22,3 +22,5 @@
 ### 20. [Select Top](./Md/select%20top.mds)
 ### 21. [Min Max Function](./Md/min%20max%20function.md)
 ### 22. [Count Sum Avg](./Md/count%20sum%20avg%20function.md)
+### 23. [Like](./Md/like.md)
+### 24. [Aliases](./Md/Aliases.md)
