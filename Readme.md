@@ -24,3 +24,5 @@
 ### 22. [Count Sum Avg](./Md/count%20sum%20avg%20function.md)
 ### 23. [Like](./Md/like.md)
 ### 24. [Aliases](./Md/Aliases.md)
+### 25. [Inner Join](./Md/Inner%20Join.md)
+### 26. [Left Join](./Md/Left%20Join.md)
