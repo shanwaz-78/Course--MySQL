@@ -6,6 +6,7 @@ To select specific Colum (DATA) from table use this syntex.
 
 To understand better Think as Colum1, Colum2 Is a Country Colum and City Colum.
 
+
 # Use Of *
 
 Is used to select all colums (DATA) form customers table. LIKE ->
