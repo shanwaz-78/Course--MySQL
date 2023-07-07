@@ -22,7 +22,9 @@ Is used to select all colums (DATA) form customers table. LIKE ->
 In many cases we have a similar data like in 
 Country colum we have 2 same country names and we want only one names then we'll use DISTINCT. LIKE ->
 
-* SELECT DISTINCT Colum FROM Customers.
+```sql
+SELECT DISTINCT Colum FROM Customers.
+```
 
 # Count Statement
 The following SQL statement counts and returns the number of different (distinct) countries in the "Customers" table:
