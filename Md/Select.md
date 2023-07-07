@@ -2,7 +2,9 @@
 
 To select specific Colum (DATA) from table use this syntex.
 
-* SELECT Colum1, Colum2 FROM Customers;
+```sql
+SELECT Colum1, Colum2 FROM Customers;
+```
 
 To understand better Think as Colum1, Colum2 Is a Country Colum and City Colum.
 
@@ -11,7 +13,9 @@ To understand better Think as Colum1, Colum2 Is a Country Colum and City Colum.
 
 Is used to select all colums (DATA) form customers table. LIKE ->
 
-* SELECT * FROM Customers.
+```sql
+ SELECT * FROM Customers
+ ```
 
 # Use DISTINCT
 
@@ -23,4 +27,6 @@ Country colum we have 2 same country names and we want only one names then we'll
 # Count Statement
 The following SQL statement counts and returns the number of different (distinct) countries in the "Customers" table:
 
-* SELECT COUNT(DISTINCT Country) FROM Customers;
+```sql
+SELECT COUNT(DISTINCT Country) FROM Customers;
+```
