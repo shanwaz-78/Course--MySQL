@@ -26,5 +26,4 @@ ALTER TABLE Customers ADD CONSTRAINT C_PersonAge CHECK (Age >= 18 AND City='Sand
 ```sql
 1. ALTER TABLE Customers DROP CONSTRAINT C_PersonAGe;
 2. ALTER TABLE Customers DROP CHECK C_PersonAge;
-
 ```
