@@ -1,14 +1,14 @@
 # COUNT SUM AVG.
 
-## * COUNT Syntax.
+* ## COUNT Syntax.
 ```sql
 SELECT COUNT(Price) FROM Products;
 ```
-## * AVG Syntax.
+* ## AVG Syntax.
 ```sql
 SELECT AVG(Price) FROM Products;
 ```
-## * SUM Syntax.
+* ## SUM Syntax.
 ```sql
 SELECT SUM(Price) FROM Products;
 ```
