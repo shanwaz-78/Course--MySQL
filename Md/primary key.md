@@ -1,5 +1,5 @@
 # PRIMARY KEY
-The PRIMARY KEY constraint uniquely identifies each record in a table.
+* The PRIMARY KEY constraint uniquely identifies each record in a table.
 
 ## PRIMARY KEY on ALTER TABLE
 ```sql
