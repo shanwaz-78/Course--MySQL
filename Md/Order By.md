@@ -1,7 +1,7 @@
 # ORDER BY.
 It's used to sort the result in ascending or descending order.  ascending is by default and descending is manually. LIKE ->
 
-SELCET * FROM Customers ORDER BY Country. (Ascending)
+* SELCET * FROM Customers ORDER BY Country. (Ascending)
 ```sql
 SELECT * FROM Products ORDER BY Country DESC. (Descending)
 ```
