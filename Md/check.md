@@ -1,5 +1,5 @@
 # CHECK
-The CHECK constraint is used to limit the value range that can be placed in a column..
+* The CHECK constraint is used to limit the value range that can be placed in a column..
 
 ## CHECK on CREATE TABLE.
 ```sql
