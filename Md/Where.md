@@ -5,7 +5,6 @@ The WHERE is used to filter records. Like we want to see only mexico country cus
 ```sql
 SELECT * FROM Customers WHERE Country='mexico'
 ```
-
 # Text Field Vs Numeric Field.
 
 SQL requires single quotes around text values (most database systems will also allow double quotes). To See Customers data by id write ->
