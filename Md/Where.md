@@ -1,5 +1,4 @@
 # WHERE
-
 The WHERE is used to filter records. Like we want to see only mexico country customers. the we'll write.->
 
 ```sql
